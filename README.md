@@ -1,4 +1,7 @@
-# Towards low-cost lead screening with transmission XRF
+<a href="https://openxrf.org"><img src="docs/OpenXRF_logo_red.svg" align="left" width="500"></a><br>
+
+# Towards low-cost lead screening with transmission XRF 
+
 
 _Page under construction (Nov 2025)_ 
 
