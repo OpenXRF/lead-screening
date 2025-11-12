@@ -10,8 +10,7 @@ _Page under construction (Nov 2025)_
 
 |Figure 1c: Typical X-ray fluence from a smoke detector <sup>241</sup>Am sample | Figure 1d: Comparing backscatter and transmission geometries for lead detection in soil with <sup>241</sup>Am | 
 | :--- |  :---  | 
-| _Example output_ <img width="770" height="466" alt="image" src="https://github.com/user-attachments/assets/a6b9bc7f-8b0b-4715-897c-c81a78022e07" />
-    | _Example output_ <img width="981" height="1068" alt="image" src="https://github.com/user-attachments/assets/0d450728-27d1-4b8a-a9b3-c65155b2443c" /> |
+| _Example output_ <img width="770" height="466" alt="image" src="https://github.com/user-attachments/assets/a6b9bc7f-8b0b-4715-897c-c81a78022e07" /> | _Example output_ <img width="969" height="1073" alt="image" src="https://github.com/user-attachments/assets/05c39f93-3560-4723-abd6-287ecfc8f168" /> |
 
 ## <code>Figure 2.ipynb</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenXRF/lead-screening/blob/main/Figure%202.ipynb)
 
