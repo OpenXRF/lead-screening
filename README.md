@@ -3,13 +3,25 @@
 _Page under construction (Nov 2025)_ 
 
 ## <code>Figure 1.ipynb</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenXRF/lead-screening/blob/main/Figure%201.ipynb)
-- **Figure 1c:** Typical X-ray fluence from a smoke detector <sup>241</sup>Am sample
-- **Figure 1d:** Comparing backscatter and transmission geometries for lead detection in soil with <sup>241</sup>Am
+
+
+|Figure 1c: Typical X-ray fluence from a smoke detector <sup>241</sup>Am sample | Figure 1d: Comparing backscatter and transmission geometries for lead detection in soil with <sup>241</sup>Am | 
+| :--- |  :---  | 
+| _Example output_ <img width="784" height="488" alt="image" src="https://github.com/user-attachments/assets/6bca85e1-a6f7-42e3-a4aa-81e4e46f2b69" />     | _Example output_ <img width="981" height="1068" alt="image" src="https://github.com/user-attachments/assets/0d450728-27d1-4b8a-a9b3-c65155b2443c" /> |
+
 ## <code>Figure 2.ipynb</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenXRF/lead-screening/blob/main/Figure%202.ipynb)
-- **Figure 2d:** Optimal soil thickness for 100 ppm Pb in soil
-- **Figure S1:** Optimal soil thickness for 10 and 1000 ppm Pb in soil
+
+| Figure 2d: Optimal soil thickness for 100 ppm Pb in soil | Figure S1: Optimal soil thickness for 10 and 1000 ppm Pb in soil | 
+| :--- |  :---  | 
+| _Example output_     | _Example output_ |
+
+
 ## <code>Figure 3.ipynb</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenXRF/lead-screening/blob/main/Figure%203.ipynb)
-- **Figure 3c:** Signal-to-noise ratio (SNR) as a function of measurement time (10-1000 ppm Pb in soil)
-- **Figure 3e:** Limit of detection (LOD) as a function of measurement time (10-1000 ppm Pb in soil)
+| Figure 3c: Signal-to-noise ratio (SNR) as a function of measurement time (10-1000 ppm Pb in soil) | Figure 3e: Limit of detection (LOD) as a function of measurement time (10-1000 ppm Pb in soil) | 
+| :--- |  :---  | 
+| _Example output_     | _Example output_ |
+
 ## <code>Figure 4.ipynb</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenXRF/lead-screening/blob/main/Figure%204.ipynb)
-- **Figure 4b:** Required measurement time as a function of detector specifications
+| Figure 4b: Required measurement time as a function of detector specifications |
+| :--- |
+| _Example output_     |
