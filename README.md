@@ -5,7 +5,7 @@
 This repository contains code to reproduce the results in our Arxiv paper:
 <blockquote>
       
-C. Gaßner, J. Reisewitz, J. E. Forsyth, K. Shaker, ["Towards low-cost lead screening with transmission XRF"](https://doi.org/10.48550/arXiv.2511.09110) arXiv:2511.09110 (2025) 
+[C. Gaßner, J. Reisewitz, J. E. Forsyth, K. Shaker, "Towards low-cost lead screening with transmission XRF" arXiv:2511.09110 (2025)](https://doi.org/10.48550/arXiv.2511.09110) 
 </blockquote>
 
 _Page under construction, to be updated with notebooks for all figures_ 
