@@ -10,7 +10,7 @@ This repository contains code to reproduce the results in our Arxiv paper:
 
 _Page under construction, to be updated with notebooks for all figures_ 
 
-## <code>Figure 1.ipynb</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenXRF/lead-screening/blob/main/Figure%201.ipynb)
+## <code>Figure 1.ipynb</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenXRF/lead-screening/blob/main/Figure1.ipynb)
 
 
 |Figure 1c: Typical X-ray fluence from a smoke detector <sup>241</sup>Am sample | Figure 1d: Comparing backscatter and transmission geometries for lead detection in soil with <sup>241</sup>Am | 
