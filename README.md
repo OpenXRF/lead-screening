@@ -21,8 +21,7 @@ _Page under construction, to be updated with notebooks for all figures_
 
 | Figure 2d: Optimal soil thickness for 100 ppm Pb in soil | Figure S1: Optimal soil thickness for 10 and 1000 ppm Pb in soil | 
 | :--- |  :---  | 
-| <img width="900" height="400" alt="Fig2d" src="https://github.com/user-attachments/assets/a6df8478-59f0-4c64-afa7-a5e87dd97a78" />
-     | <img width="900" height="900" alt="FigS1" src="https://github.com/user-attachments/assets/882ebfec-bc00-4c09-8534-aa7ad48f6e9d" />
+| <img width="900" height="400" alt="Fig2d" src="https://github.com/user-attachments/assets/a6df8478-59f0-4c64-afa7-a5e87dd97a78" /> | <img width="900" height="900" alt="FigS1" src="https://github.com/user-attachments/assets/1582fe2b-43d7-4275-9ea2-4b10b97a81e4" />
  |
 
 
