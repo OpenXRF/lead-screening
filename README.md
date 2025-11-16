@@ -15,7 +15,7 @@ _Page under construction, to be updated with notebooks for all figures_
 
 |Figure 1c: Typical X-ray fluence from a smoke detector <sup>241</sup>Am sample | Figure 1d: Comparing backscatter and transmission geometries for lead detection in soil with <sup>241</sup>Am | 
 | :--- |  :---  | 
-| _Example output_ <img width="770" height="466" alt="image" src="https://github.com/user-attachments/assets/a6b9bc7f-8b0b-4715-897c-c81a78022e07" /> | _Example output_ <img width="976" height="1077" alt="image" src="https://github.com/user-attachments/assets/51566b8e-0d5b-47a6-815d-827c399326dd" />|
+| <img width="770" height="466" alt="image" src="https://github.com/user-attachments/assets/a6b9bc7f-8b0b-4715-897c-c81a78022e07" /> | <img width="976" height="1077" alt="image" src="https://github.com/user-attachments/assets/51566b8e-0d5b-47a6-815d-827c399326dd" />|
 
 ## <code>Figure 2.ipynb</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenXRF/lead-screening/blob/main/Figure2.ipynb)
 
@@ -25,10 +25,10 @@ _Page under construction, to be updated with notebooks for all figures_
 
 
 ## <code>Figure 3.ipynb</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenXRF/lead-screening/blob/main/Figure3.ipynb)
-| Figure 3c: Signal-to-noise ratio (SNR) as a function of measurement time and Figure 3e: Limit of detection (LOD) as a function of measurement time (10-1000 ppm Pb in soil)| Figure 3b: Simulated detector spectra at example timepoints and Pb concentrations |
+| Figure 3c and e: Signal-to-noise ratio (SNR) and Limit of detection (LOD) as a function of measurement time (10-1000 ppm Pb in soil)| Figure 3b: Simulated detector spectra at example timepoints and Pb concentrations |
 | :--- |  :---  | 
-| _Example output_  <img width="900" height="450" alt="Fig3" src="https://github.com/user-attachments/assets/62af96b1-6213-4615-bd4e-e77c7e3dee1b" />
-   | _Example output_  <img width="800" height="800" alt="Fig3_hist" src="https://github.com/user-attachments/assets/6dae41f0-71ca-4534-82dd-caeeadc94297" /> |
+| <img width="900" height="450" alt="Fig3" src="https://github.com/user-attachments/assets/62af96b1-6213-4615-bd4e-e77c7e3dee1b" /> | <img width="800" height="800" alt="Fig3_hist" src="https://github.com/user-attachments/assets/6dae41f0-71ca-4534-82dd-caeeadc94297" /> |
+
 
 ## <code>Figure 4.ipynb</code> [coming]
 | Figure 4b: Required measurement time as a function of detector specifications |
