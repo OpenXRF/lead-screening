@@ -30,7 +30,8 @@ _Page under construction, to be updated with notebooks for all figures_
 | <img width="900" height="450" alt="Fig3" src="https://github.com/user-attachments/assets/62af96b1-6213-4615-bd4e-e77c7e3dee1b" /> | <img width="800" height="800" alt="Fig3_hist" src="https://github.com/user-attachments/assets/6dae41f0-71ca-4534-82dd-caeeadc94297" /> |
 
 
-## <code>Figure 4.ipynb</code> [coming]
+## <code>Figure 4.ipynb</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenXRF/lead-screening/blob/main/Figure4.ipynb)
 | Figure 4b: Required measurement time as a function of detector specifications |
 | :--- |
-| _Example output_     |
+| <img width="900" height="350" alt="Fig4" src="https://github.com/user-attachments/assets/2bc46ac6-2606-408d-887c-fdff3fdc5c98" />
+   |
